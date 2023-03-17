@@ -1,5 +1,13 @@
 <center> <h1>HBNB - The Console</h1> </center>
 
+<p align="center">
+  <img src="https://github.com/bdbaraban/AirBnB_clone/blob/master/assets/hbnb_logo.png" alt="HolbertonBnB logo">
+</p>
+
+<h1 align="center">AirBnB</h1>
+<p align="center">An AirBnB clone.</p>
+
+
 This is the console /command interpreter for the ALX-Africa Airbnb clone project. The console can be used to store and retrieve objects from a JSON. This project implements a backend interface, or console, to manage program data. Console commands allow the user to create, update, and destroy objects, as well as manage file storage.
 
 ---
